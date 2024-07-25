@@ -10,6 +10,7 @@ return {
         "tailwindcss-language-server",
         "typescript-language-server",
         "css-lsp",
+        "emmet-language-server",
       })
     end,
   },
